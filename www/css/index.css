@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+}
+
+#go {
+	width: 33vh;
+	height: 10vw;
+	font-size: 4vw;
+}
+
+.mdl-textfield {
+	width: 90vw;
+}
